@@ -1,1 +1,1 @@
-La noche de anoche
+Este archivo lo cree desde la terminal de GIT, realice cambios desde ahi con el editor vim pero no pude hacer puhs, no pude entrar ni con la contra ni con el usuario. La edición la hice desde VS. 
